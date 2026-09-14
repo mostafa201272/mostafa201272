@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 200" width="100%" height="auto">
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#12161f" />
+      <stop offset="100%" stop-color="#1a2230" />
+    </linearGradient>
+    <linearGradient id="glowRed" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#dd0031" />
+      <stop offset="100%" stop-color="#f43f5e" />
+    </linearGradient>
+    <linearGradient id="glowBlue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" />
+      <stop offset="100%" stop-color="#38bdf8" />
+    </linearGradient>
+    <linearGradient id="glowGreen" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#059669" />
+      <stop offset="100%" stop-color="#42b883" />
+    </linearGradient>
+    <linearGradient id="glowPurple" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7c3aed" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .title-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-size: 14px;
+      font-weight: 700;
+      fill: #f0f6fc;
+    }
+    .badge-text {
+      font-family: 'JetBrains Mono', 'SF Mono', Consolas, monospace;
+      font-size: 10px;
+      font-weight: 600;
+      letter-spacing: 0.5px;
+    }
+    .desc-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-size: 11.5px;
+      fill: #8b949e;
+      line-height: 1.4;
+    }
+    .highlight {
+      fill: #e6edf3;
+      font-weight: 500;
+    }
+  </style>
+
+  <!-- Card 1: Enterprise Architecture -->
+  <g>
+    <rect x="5" y="5" width="198" height="190" rx="12" fill="url(#cardBg)" stroke="url(#glowRed)" stroke-width="1.2" stroke-opacity="0.6" />
+    <rect x="18" y="18" width="50" height="20" rx="6" fill="#dd0031" fill-opacity="0.15" stroke="#dd0031" stroke-width="0.8" />
+    <text x="43" y="32" text-anchor="middle" fill="#f43f5e" class="badge-text">SCALE</text>
+    <text x="18" y="62" class="title-text">Enterprise Scale</text>
+    <text x="18" y="88" class="desc-text">• <tspan class="highlight">Nx Monorepos</tspan></text>
+    <text x="18" y="108" class="desc-text">• <tspan class="highlight">Module Federation</tspan></text>
+    <text x="18" y="128" class="desc-text">• Micro-Frontends</text>
+    <text x="18" y="148" class="desc-text">• Architectural ADRs</text>
+    <text x="18" y="168" class="desc-text">• Zero-debt Refactoring</text>
+  </g>
+
+  <!-- Card 2: Fine-Grained Reactivity -->
+  <g>
+    <rect x="215" y="5" width="198" height="190" rx="12" fill="url(#cardBg)" stroke="url(#glowBlue)" stroke-width="1.2" stroke-opacity="0.6" />
+    <rect x="228" y="18" width="56" height="20" rx="6" fill="#0284c7" fill-opacity="0.15" stroke="#38bdf8" stroke-width="0.8" />
+    <text x="256" y="32" text-anchor="middle" fill="#38bdf8" class="badge-text">SPEED</text>
+    <text x="228" y="62" class="title-text">Fast Reactivity</text>
+    <text x="228" y="88" class="desc-text">• <tspan class="highlight">Angular Signals</tspan></text>
+    <text x="228" y="108" class="desc-text">• <tspan class="highlight">Zoneless Engine</tspan></text>
+    <text x="228" y="128" class="desc-text">• NgRx SignalStore</text>
+    <text x="228" y="148" class="desc-text">• RxJS Reactive Pipes</text>
+    <text x="228" y="168" class="desc-text">• Sub-second INP / LCP</text>
+  </g>
+
+  <!-- Card 3: Dual-Framework Mastery -->
+  <g>
+    <rect x="425" y="5" width="198" height="190" rx="12" fill="url(#cardBg)" stroke="url(#glowGreen)" stroke-width="1.2" stroke-opacity="0.6" />
+    <rect x="438" y="18" width="58" height="20" rx="6" fill="#059669" fill-opacity="0.15" stroke="#42b883" stroke-width="0.8" />
+    <text x="467" y="32" text-anchor="middle" fill="#42b883" class="badge-text">HYBRID</text>
+    <text x="438" y="62" class="title-text">Dual-Engine Core</text>
+    <text x="438" y="88" class="desc-text">• <tspan class="highlight">Angular 21 + React 19</tspan></text>
+    <text x="438" y="108" class="desc-text">• <tspan class="highlight">TypeScript Strict</tspan></text>
+    <text x="438" y="128" class="desc-text">• Tailwind CSS v4 &amp; shadcn</text>
+    <text x="438" y="148" class="desc-text">• PrimeNG Design System</text>
+    <text x="438" y="168" class="desc-text">• Shared UI Contracts</text>
+  </g>
+
+  <!-- Card 4: Visual Workflow Studios -->
+  <g>
+    <rect x="635" y="5" width="200" height="190" rx="12" fill="url(#cardBg)" stroke="url(#glowPurple)" stroke-width="1.2" stroke-opacity="0.6" />
+    <rect x="648" y="18" width="60" height="20" rx="6" fill="#7c3aed" fill-opacity="0.15" stroke="#c084fc" stroke-width="0.8" />
+    <text x="678" y="32" text-anchor="middle" fill="#c084fc" class="badge-text">STUDIO</text>
+    <text x="648" y="62" class="title-text">Visual Systems</text>
+    <text x="648" y="88" class="desc-text">• <tspan class="highlight">Node Graph Studios</tspan></text>
+    <text x="648" y="108" class="desc-text">• <tspan class="highlight">Real-time WebSockets</tspan></text>
+    <text x="648" y="128" class="desc-text">• Quant Trading Runtimes</text>
+    <text x="648" y="148" class="desc-text">• ApexCharts &amp; ECharts</text>
+    <text x="648" y="168" class="desc-text">• Django Channels Sync</text>
+  </g>
+</svg>
