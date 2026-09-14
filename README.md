@@ -1,13 +1,13 @@
 <div align="center">
 
   <!-- 🌟 Top Hero Banner -->
-  <a href="https://elsherbiniy.com">
+  <a href="https://www.linkedin.com/in/el-sherbiniy/">
     <img src="./assets/banner.png" alt="Eng. Mostafa Mahmoud El-sherbiniy Banner" width="100%" />
   </a>
 
   <!-- ⚡ Dynamic Typewriter Headline -->
   <p align="center">
-    <a href="https://elsherbiniy.com">
+    <a href="https://www.linkedin.com/in/el-sherbiniy/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=DD0031&center=true&vCenter=true&width=750&lines=Senior+Frontend+Engineer+%26+System+Architect;Angular+21+(Signals+%26+Zoneless)+%7C+React+19+%7C+Vue;Enterprise+Micro-Frontends+%26+Design+Systems;Building+systems%2C+not+just+apps." alt="Dynamic Roles Typing" />
     </a>
   </p>
@@ -18,15 +18,12 @@
       <img src="https://img.shields.io/badge/Location-Cairo%2C%20Egypt-161b22?style=for-the-badge&logo=googlemaps&logoColor=EA4335&labelColor=0d1117" alt="Cairo, Egypt" />
     </a>
     <a href="https://github.com/mostafa201272">
-      <img src="https://img.shields.io/badge/Role-Sr.%20Software%20Engineer-161b22?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Sr. Software Engineer" />
+      <img src="https://img.shields.io/badge/Role-Sr.%20Software%20Engineer-161b22?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Sr. Frontend Engineer" />
     </a>
-    <a href="https://elsherbiniy.com">
+    <a href="https://www.linkedin.com/in/el-sherbiniy/">
       <img src="https://img.shields.io/badge/Portfolio-elsherbiniy.com-161b22?style=for-the-badge&logo=googlechrome&logoColor=4285F4&labelColor=0d1117" alt="elsherbiniy.com" />
     </a>
-    <a href="https://x.com/M_M_Elsherbiniy">
-      <img src="https://img.shields.io/badge/X-@M__M__Elsherbiniy-161b22?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="Twitter / X" />
-    </a>
-    <a href="mailto:mostafa.elsherbini@ctx.ae">
+    <a href="mailto:mostafa201272@yahoo.com">
       <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117" alt="Email" />
     </a>
     <a href="https://komarev.com/ghpvc/?username=mostafa201272">
@@ -253,20 +250,14 @@ I am a **Senior Frontend Engineer & Software Architect** specializing in large-s
   </p>
 
   <p align="center">
-    <a href="https://elsherbiniy.com">
+    <a href="https://www.linkedin.com/in/el-sherbiniy/">
       <img src="https://img.shields.io/badge/Portfolio-elsherbiniy.com-DD0031?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="https://x.com/M_M_Elsherbiniy">
-      <img src="https://img.shields.io/badge/X-@M__M__Elsherbiniy-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
-    </a>
-    <a href="https://www.linkedin.com/in/mostafa-elsherbiniy/">
+    <a href="https://www.linkedin.com/in/el-sherbiniy/">
       <img src="https://img.shields.io/badge/LinkedIn-Mostafa%20Elsherbiniy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:mostafa.elsherbini@ctx.ae">
-      <img src="https://img.shields.io/badge/Email-mostafa.elsherbini@ctx.ae-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
     <a href="mailto:mostafa201272@yahoo.com">
-      <img src="https://img.shields.io/badge/Alt%20Email-mostafa201272@yahoo.com-6001D2?style=for-the-badge&logo=yahoo&logoColor=white" alt="Yahoo Mail" />
+      <img src="https://img.shields.io/badge/Email-mostafa201272@yahoo.com-6001D2?style=for-the-badge&logo=yahoo&logoColor=white" alt="Yahoo Mail" />
     </a>
   </p>
 
