@@ -8,7 +8,7 @@
   <!-- ⚡ Dynamic Typewriter Headline -->
   <p align="center">
     <a href="https://www.linkedin.com/in/el-sherbiniy/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=DD0031&center=true&vCenter=true&width=750&lines=Senior+Frontend+Engineer+%26+System+Architect;Angular+21+(Signals+%26+Zoneless)+%7C+React+19+%7C+Vue;Enterprise+Micro-Frontends+%26+Design+Systems;Building+systems%2C+not+just+apps." alt="Dynamic Roles Typing" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=DD0031&center=true&vCenter=true&width=750&lines=Senior+Software+Engineer+%26+System+Architect;Angular+21+(Signals+%26+Zoneless)+%7C+React+19+%7C+Vue;Enterprise+Micro-Frontends+%26+Design+Systems;Building+systems%2C+not+just+apps." alt="Dynamic Roles Typing" />
     </a>
   </p>
 
